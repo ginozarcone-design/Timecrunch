@@ -1,2 +1,0 @@
-# Timecrunch
-Time budgeting app
